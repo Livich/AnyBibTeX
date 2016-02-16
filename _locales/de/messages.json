@@ -1,0 +1,59 @@
+{
+  "appName": {
+    "message": "Jede BibTeX"
+  },
+  "appShortName": {
+    "message": "Jede BibTeX"
+  },
+  "appDesc": {
+    "message": "Kopiert BibTeX-Link in das Clipboard auf das Buch in Google Bücher oder auf einer mißbräuchlichen Website "
+  },
+  "pref_action_page": {
+    "message": "options.html"
+  },
+  "e_0": {
+    "message": "Keine aktive Leiste"
+  },
+  "e_book_id_not_found": {
+    "message": "Identifikator des Buches nicht gefunden"
+  },
+  "e_copy_to_clipboard": {
+    "message": "Fehler beim Zugang zum Clipboard"
+  },
+  "copied_to_clipboard": {
+    "message": "Ins Clipboard kopiert"
+  },
+  "config_use_url_title": {
+    "message": "Ergänzen den URL-Link zu einer Website mit einem Buch"
+  },
+  "config_use_url_desc": {
+    "message": "Aktivieren Sie diese Option, um die URL-Linke auf Bücher  in der Bibliographie zu speichern"
+  },
+  "config_urldate_format_title": {
+	"message": "Feldformart urldate"
+  },
+  "config_urldate_format_desc": {
+	"message": "Benutzen Sie die Makros %DD%, %MM%, %YYYY% und jede Symbole, um das Feldformat urldate einzusetzen"
+  },
+  "save": {
+    "message": "Speichern"
+  },
+  "reset": {
+    "message": "Zurücksetzen"
+  },
+  "copyright": {
+    "message": "Geschrieben von: Sergei Lilikovich"
+  },
+  "donate": {
+    "message": "Bitcoin-Geldbörse für Spenden"
+  },
+  "config_default_language": {
+    "message": "Standard-Sprache für BibTeX"
+  },
+  "default_language": {
+    "message": "deutsch"
+  },
+  "config_default_language_desc": {
+    "message": "Sprache, die für BibTeX-Einträge standardmäßig festgelegt werden"
+  }
+}

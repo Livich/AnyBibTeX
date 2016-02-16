@@ -1,0 +1,59 @@
+{
+  "appName": {
+    "message": "Any BibTeX"
+  },
+  "appShortName": {
+	"message": "Any BibTeX"
+  },
+  "appDesc": {
+    "message": "Копирует в буфер обмена BibTeX-ссылку на книгу в Google Books или на произвольный сайт"
+  },
+  "pref_action_page": {
+	"message": "options_ru.html"
+  },
+  "e_0": {
+	"message": "Нет активной вкладки"
+  },
+  "e_book_id_not_found": {
+	"message": "Идентификатор книги не найден"
+  },
+  "e_copy_to_clipboard": {
+	"message": "Ошибка доступа к буферу обмена"
+  },
+  "copied_to_clipboard": {
+	"message": "Скопировано в буфер обмена"
+  },
+  "config_use_url_title": {
+	"message": "Добавлять url-ссылку на сайт с книгой"
+  },
+  "config_use_url_desc": {
+	"message": "Активируйте эту опцию, чтобы сохранять URL ссылки на книги в библиографическом списке"
+  },
+  "config_urldate_format_title": {
+	"message": "Формат поля urldate"
+  },
+  "config_urldate_format_desc": {
+	"message": "Используйте макросы %DD%, %MM%, %YYYY% и любые символы чтобы задать формат поля urldate"
+  },
+  "save": {
+	"message": "Сохранить"
+  },
+  "reset": {
+	"message": "Сбросить"
+  },
+  "copyright": {
+	"message": "Написал Сергей Лиликович"
+  },
+  "donate": {
+	"message": "Bitcoin-кошелёк для пожертвований"
+  },
+    "config_default_language":{
+  	"message": "Язык по-умолчанию для BibTeX"
+  },
+  "default_language":{
+  	"message": "russian"
+  },
+  "config_default_language_desc":{
+  	"message": "Язык, который будет установлен для BibTeX-записей по-умолчанию"
+  }
+}

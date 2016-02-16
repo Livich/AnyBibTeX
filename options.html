@@ -1,0 +1,59 @@
+<html>
+	<head>
+		<title>__MSG_appName__</title>
+		<link rel="stylesheet" type="text/css" href="css/options.css" />
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<div id="logo">
+			<center>
+				<img src="images/icon128.png" style="height:100px;width:100px;">
+				</img>
+			</center>
+		</div>
+		<div id="container">
+			<div id="options">
+				<div class="option">
+					<input type="checkbox" id="cb_use_url">
+					<label for="cb_use_url">__MSG_config_use_url_title__</label>
+					<p>
+						__MSG_config_use_url_desc__
+					</p>
+				</div>
+
+				<div class="option">
+					<input type="text" id="tb_urldate_fmt">
+					<label for="tb_urldate_fmt">__MSG_config_urldate_format_title__</label>
+					<p>
+						__MSG_config_urldate_format_desc__
+					</p>
+				</div>
+
+				<div class="option">
+					<input type="text" id="tb_default_language" value="__MSG_default_language__">
+					<label for="tb_default_language">__MSG_config_default_language__</label>
+					<p>
+						__MSG_config_default_language_desc__
+					</p>
+				</div>
+			</div>
+			<div id="buttons">
+				<button id="saveButton" class="btn">
+					__MSG_save__
+				</button>
+
+				<button id="restoreButton" class="btn">
+					__MSG_reset__
+				</button>
+			</div>
+		</div>
+
+		<div id="footer">
+			__MSG_copyright__ (<a href="https://github.com/Livich" target="_blank">GitHub</a>)
+			<br>
+			__MSG_donate__: 13hh98grwcN2npadF8QR2shyMjQGgJ7SK2
+		</div>
+
+		<script src="js/options.js"></script>
+	</body>
+</html>

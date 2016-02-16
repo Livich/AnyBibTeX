@@ -1,0 +1,59 @@
+{
+	"appName": {
+		"message": "Any BibTeX"
+	},
+	"appShortName": {
+		"message": "Any BibTeX"
+	},
+	"appDesc": {
+		"message": "Копіює в буфер обміну BibTeX-посилання на книгу в Google Books або на довільний сайт"
+	},
+	"pref_action_page": {
+		"message": "options.html"
+	},
+	"e_0": {
+		"message": "Немає активної вкладки"
+	},
+	"e_book_id_not_found": {
+		"message": "Ідентифікатор книги не знайдений"
+	},
+	"e_copy_to_clipboard": {
+		"message": "Помилка доступу до буфера обміну"
+	},
+	"copied_to_clipboard": {
+		"message": "Скопійовано в буфер обміну"
+	},
+	"config_use_url_title": {
+		"message": "Додавати url-посилання на сайт з книгою"
+	},
+	"config_use_url_desc": {
+		"message": "Активуйте цю опцію, щоб зберігати URL посилання на книги в бібліографічному списку"
+	},
+	"config_urldate_format_title": {
+		"message": "Формат поля urldate"
+	},
+	"config_urldate_format_desc": {
+		"message": "Використовуйте макросы %DD%, %MM%, %YYYY% та інші символи щоб задати формат поля urldate"
+	},
+	"save": {
+		"message": "Зберегти"
+	},
+	"reset": {
+		"message": "Скинути"
+	},
+	"copyright": {
+		"message": "Зроблено з любов'ю у Харкові. Сергій Лілікович"
+	},
+	"donate": {
+		"message": "Bitcoin-гаманець для пожертвувань"
+	},
+	"config_default_language": {
+		"message": "Мова за замовчуванням для BibTeX"
+	},
+	"default_language": {
+		"message": "ukrainian"
+	},
+	"config_default_language_desc": {
+		"message": "Мова, яку буде встановлено для BibTeX-записів по-замовчуванню"
+	}
+}

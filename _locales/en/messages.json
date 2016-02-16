@@ -1,0 +1,59 @@
+{
+  "appName": {
+    "message": "Any BibTeX"
+  },
+  "appShortName": {
+    "message": "Any BibTeX"
+  },
+  "appDesc": {
+    "message": "Copies to clipboard BibTeX reference to book from Google's bookstore. Also works for any another website."
+  },
+  "pref_action_page": {
+    "message": "options.html"
+  },
+  "e_0": {
+    "message": "No active tab"
+  },
+  "e_book_id_not_found": {
+    "message": "Book identifier not found"
+  },
+  "e_copy_to_clipboard": {
+    "message": "Error accessing clipboard"
+  },
+  "copied_to_clipboard": {
+    "message": "Copied to clipboard"
+  },
+  "config_use_url_title": {
+    "message": "Add bookstore's URL to BibTeX items"
+  },
+  "config_use_url_desc": {
+    "message": "Enable this option to include URL of bookstore into bibliography"
+  },
+    "config_urldate_format_title": {
+	"message": "urldate format"
+  },
+  "config_urldate_format_desc": {
+	"message": "Use %DD%, %MM%, %YYYY% placeholders to define urldate format"
+  },
+  "save": {
+    "message": "Save"
+  },
+  "reset": {
+    "message": "Reset"
+  },
+  "copyright": {
+    "message": "By Sergiy Lilikovych"
+  },
+  "donate": {
+    "message": "Bitcoin"
+  },
+  "config_default_language": {
+    "message": "Default language for BibTeX items"
+  },
+  "default_language": {
+    "message": "english"
+  },
+  "config_default_language_desc": {
+    "message": "Language that will be set for BibTeX entries by default"
+  }
+}
